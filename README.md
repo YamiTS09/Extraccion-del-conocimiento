@@ -2,7 +2,7 @@
 
 ## Información del Alumno
 
-**Nombre:** Yazmin Hernández
+**Nombre:** Sandra Yamileth Jiménez Asís
 
 **Materia:** Extracción del Conocimiento de Base de Datos
 
